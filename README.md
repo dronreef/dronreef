@@ -1,6 +1,5 @@
 # <h2 align="left"> Olá, sou Guilherme! 🚀</h2>
 
-Sobre Mim
 
  # Aluno, Aceleradora Inclusiva 
 Programa de formação em TI, coordenado pela @pucrs e @tecnopuc, que conta com parceria da @Thoughtworks e da @tvglobo
